@@ -2,7 +2,7 @@
 
 ![](images/Simulator.png)
 
-查看模拟器开源介绍请移步 RoboMaster 论坛。
+查看模拟器开源介绍请移步 [RoboMaster 论坛](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=12194)。
 
 本仓库包括如下开源内容：
 
